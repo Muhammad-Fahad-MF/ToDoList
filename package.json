@@ -1,12 +1,13 @@
 {
-  "name": "todolist",
-  "version": "1.0.0",
+  "name": "mfa-todolist",
+  "version": "1.0.2",
   "description": "Created a To Do list using While Loop.",
   "main": "main.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
